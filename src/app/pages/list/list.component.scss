@@ -2,9 +2,11 @@
     width: 98%;
     margin: auto;
     margin-top: 1rem;
+    text-align: center;
 }
 
 .cards {
+    margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
     gap: 0.9em;
