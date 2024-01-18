@@ -1,0 +1,106 @@
+.contenedor{
+    background-image: url("https://imgs.search.brave.com/R_Q7Z98wGHFAfDBUkq1vkW1EErwZTS60oJ-WpU54qPQ/rs:fit:1024:576:1/g:ce/aHR0cHM6Ly9pbWcw/MC5kZXZpYW50YXJ0/Lm5ldC80N2I1L2kv/MjAxNS8yNzMvNy9l/L3l1X2dpX29oX193/YWxscGFwZXJfYnlf/YmVub3dhcjg4LWQ5/YmZlajUucG5n");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%; 
+    padding: 0;
+    padding-bottom: 2rem;
+}
+
+.detail-card {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+    margin: 0 2rem 0 2rem;
+    background-color: rgba(13, 13, 13, 0.22);
+    color: white;
+
+    @media only screen and (min-width: 800px) {
+        flex-direction: row;
+    }
+
+    .top {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        padding-bottom: 0;
+    }
+    .topb {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem;
+    }
+
+    img {
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        max-width: 1000px;
+        padding: 1rem;
+    }
+
+    .item {
+        max-width: 500px;
+        text-align: center;
+    }
+    table {
+        background-color: #34495e;
+        color: white;
+        max-width: 80%;
+        border: 1px 1px solid #000;
+    }
+    .fondo{
+        background-color: #000;
+    }
+
+    .tam{
+        text-align: center;
+        width: 1rem;
+    }
+}
+
+.boton{
+  background: none;
+  border: 2px solid;
+  font-family: inherit;
+  line-height: 1;
+  margin: 0.5em;
+  padding: 1em 2em;
+  text-decoration: none;
+}
+
+
+.boton:hover, .boton:focus {
+    border-color: var(--hover);
+    color: #fff;
+}
+
+.bg{
+    padding: auto;
+  width: 100%;
+  height: 100px;
+  margin: 10px;
+  background-image: url("../../../assets/bg.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.ye{
+    font-family: 'Neogrey Medium';
+    font-weight: 200;
+    color: #f1c03a; 
+    -webkit-text-stroke: 2px black;
+}

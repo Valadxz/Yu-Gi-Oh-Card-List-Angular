@@ -1,0 +1,110 @@
+
+<div class="contenedor class">
+    
+  <div class="detail-card" *ngIf="card$ | async as card">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="col-md-12 top ">
+                <img [src]="card.card_images[0].image_url" alt="Imagen">
+            </div>
+            <div class="col-md-12 topb">
+                <ng-container *ngIf="card.atk">
+                    <table class="bg text-center">
+                        <thead class="">
+                            <tr>
+                                <th>Attack</th>
+                            </tr>
+                        </thead>
+                        <tbody class="">
+                            <th>
+                                <h1 class="ye">{{ card.atk }}</h1>
+                            </th>
+                        </tbody>
+                    </table>
+
+                    <table class="bg text-center">
+                        <thead class="">
+                            <tr>
+                                <th>Defense</th>
+                            </tr>
+                        </thead>
+                        <tbody class="">
+                            <th>
+                                <h1 class="ye">{{ card.def }}</h1>
+                            </th>
+                        </tbody>
+                    </table>
+                </ng-container>
+            </div>
+        </div>
+
+        <div class="col-md-8">
+            <div class="col-md-12">
+
+            <div class="bottom">
+                <h2 class="text-center">{{ card.name }}</h2>
+                <p translate="yes" lang="es" class="description">{{ card.desc }}</p>
+            
+                <table class="table">
+                  <thead class="text-center " style="color: yellow;">
+                    <tr>
+                      <th>Type</th>
+                      <th>Archetype</th>
+                      <ng-container *ngIf="card.level">
+                        <th>Level</th>
+                        <th>Attribute</th>
+                      </ng-container>
+                    </tr>
+                  </thead>
+                  <tbody class="text-center">
+                    <th>
+                      <p class="description">{{ card.type }}</p>
+                    </th>
+                    <th>
+                      <p class="description">{{ card.race }}</p>
+                    </th>
+                    <ng-container *ngIf="card.level">
+                      <th>
+                        <p class="description">
+                          <img src="../../../assets/BAM-Star.png" class="tam" alt="" />
+                          {{ card.level }}
+                        </p>
+                      </th>
+                    <th>
+                      <p class="description">
+                        <ng-container *ngIf="card.attribute">
+                          <img [src]="card.attribute | attributeImage" class="tam" />
+                          {{ card.attribute }}
+                        </ng-container>
+                      </p>
+                    </th>
+          
+                  </ng-container>
+                  </tbody>
+                </table>
+          
+                <table class="table">
+                  <thead class="text-center fondo">
+                    <tr>
+                      <th>Website</th>
+                      <th>Price</th>
+                    </tr>
+                  </thead>
+                  <tbody class="text-center">
+                    <tr *ngFor="let market of card.card_prices[0] | keyvalue">
+                      <th>
+                          <a [href]="market.key | marketName">{{ market.key | marketName }}</a>
+                  </th>
+                      <th>{{ market.value | currency }}</th>
+                    </tr>
+                  </tbody>
+                </table>
+          
+                <a class="boton" href="index.html">Back to the list</a>
+              </div>
+            </div>
+        </div>
+
+    </div>
+  </div>
+</div>

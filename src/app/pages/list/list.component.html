@@ -1,0 +1,13 @@
+<div class="list"
+    infiniteScroll
+    [infiniteScrollDistance]="2"
+    [infiniteScrollThrottle]="50"
+    (scrolled)="onScroll()"
+>
+    <input  class="form-control w" type="text" placeholder="Search a card" [formControl]="cardTextFC">
+
+    <div class="cards">
+        <app-card *ngFor="let item of cards" [card]="item"></app-card>
+    </div>
+
+</div>
