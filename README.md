@@ -1,4 +1,4 @@
-![image](https://github.com/Valadxz/Yu-Gi-Oh-Card-List-Angular/assets/126147471/8580ad47-f73e-456a-86d7-d358adb2c299)
+![image](https://i.imgur.com/3llP2dd.png)
 <div align='center'>
 
 <img src=https://i.imgur.com/u3KHA4w.png alt="logo" width= height= />
@@ -29,7 +29,12 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
 
 
 ### :space_invader: Tecnologías
-<ul style="list-style-type: none; float: left; margin-right: 10px; padding: 0 4px;">
+
+<details>
+  <summary>
+    Tecnologías
+  </summary>
+  <ul style="list-style-type: none">
     <li>
     <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt='image' width='80'/></a> </div>
   </li>
@@ -43,6 +48,7 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
     <div align="center"><img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt='image' width='80'/></a> </div>
   </li>
 </ul>
+</details>
 <details> <summary>Servidor</summary> <ul>
 <li><div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt='image' heigth='80'/></a> </li>
 </ul> </details>
@@ -59,7 +65,7 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
 
 ### :running: Correr de forma local
 
-Clone the project
+Clonar el proyecto
 
 ```bash
 https://github.com/Valadxz/Yu-Gi-Oh-Card-List-Angular/
