@@ -20,7 +20,7 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
 - [Contacto](#handshake-contact)
 
 
-## :star2: About the Project
+## :star2: Acerca del proyecto
 
 ### :camera: Screenshots
 <div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/3llP2dd.png" alt='image' width='500'/></a> </div>
@@ -49,8 +49,8 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
   </li>
 </ul>
 </details>
-<details> <summary>Servidor</summary> <ul>
-<li><div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt='image' heigth='80'/></a> </li>
+<details> <summary>Servidor</summary> <ul style="list-style-type: none">
+<li><div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt='image'  width='150'/></a> </li>
 </ul> </details>
 
 ### :art: Color Reference
