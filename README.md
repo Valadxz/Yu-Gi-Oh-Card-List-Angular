@@ -1,19 +1,23 @@
+![image](https://github.com/Valadxz/Yu-Gi-Oh-Card-List-Angular/assets/126147471/8580ad47-f73e-456a-86d7-d358adb2c299)
 <div align='center'>
 
 <img src=https://i.imgur.com/u3KHA4w.png alt="logo" width= height= />
 
-<h1>Desarrollo FrontEnd </h1>
-<p>Aplicación desarrollada en Angular que muestra el listado de todas las cartas de Yu-Gi-Oh! </p>
+<h1>Desarrollo FrontEnd con Angular</h1>
+<p>Aplicación desarrollada en Angular que muestra el listado de todas las cartas de Yu-Gi-Oh! <br>
+Incluye un buscador, información detallada de cada carta y <b>traducción al español</b></p>
 
 <h4> <a href=https://yugioh-cardlist.netlify.app>View Demo</a> <span> · </span> <a href="https://github.com/Valadxz/https://github.com/Valadxz//blob/master/README.md"> Documentación </a> <span> · </span> <a href="https://github.com/Valadxz/https://github.com/Valadxz//issues"> Reportar Bug </a> <span> · </span> 
 
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+# :notebook_with_decorative_cover: Tabla de contenido
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
+- [Acerca del proyecto](#star2-about-the-project)
+- [Screenshots](#camera)
+- [Tecnologías](#space_invader)
+- [Contacto](#handshake-contact)
 
 
 ## :star2: About the Project
@@ -25,7 +29,7 @@
 
 
 ### :space_invader: Tecnologías
-<details> <ul>
+<ul>
     <li>
     <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt='image' width='80'/></a> </div>
   </li>
@@ -38,9 +42,9 @@
   <li>
     <div align="center"><img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt='image' width='80'/></a> </div>
   </li>
-</ul> </details>
+</ul>
 <details> <summary>Servidor</summary> <ul>
-<li><a href="https://www.netlify.com">Netlify</a></li>
+<li><div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt='image' heigth='80'/></a> </li>
 </ul> </details>
 
 ### :art: Color Reference
@@ -51,9 +55,9 @@
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-## :toolbox: Getting Started
+## :toolbox: Para empezar
 
-### :running: Run Locally
+### :running: Correr de forma local
 
 Clone the project
 
@@ -70,7 +74,7 @@ ng serve -o
 ```
 
 
-## :handshake: Contact
+## :handshake: Contacto
 
 Juan Felipe Valadez - - juanfelipevldz@gmail.com
 
