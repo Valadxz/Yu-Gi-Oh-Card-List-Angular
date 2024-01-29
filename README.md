@@ -1,8 +1,6 @@
 ![image](https://i.imgur.com/3llP2dd.png)
 <div align='center'>
 
-<img src=https://i.imgur.com/u3KHA4w.png alt="logo" width= height= />
-
 <h1>Desarrollo FrontEnd con Angular</h1>
 <p>Aplicación desarrollada en Angular que muestra el listado de todas las cartas de Yu-Gi-Oh! <br>
 Incluye un buscador, información detallada de cada carta y <b>traducción al español</b></p>
@@ -29,37 +27,77 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
 
 
 ### :space_invader: Tecnologías
+<p align="left">
 
-<details>
-  <summary>
-    Tecnologías
-  </summary>
-  <ul style="list-style-type: none">
-    <li>
-    <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt='image' width='80'/></a> </div>
-  </li>
-  <li>
-    <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt='image' width='80'/></a> </div>
-  </li>
-  <li>
-    <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt='image' width='80'/></a> </div>
-  </li>
-  <li>
-    <div align="center"><img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt='image' width='80'/></a> </div>
-  </li>
-</ul>
-</details>
-<details> <summary>Servidor</summary> <ul style="list-style-type: none">
-<li><div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png" alt='image'  width='150'/></a> </li>
-</ul> </details>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+    </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="60"
+      height="60"
+    />
+  </a>  
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://angular.io/assets/images/logos/angular/angular.svg"
+      alt="angular"
+      width="60"
+      height="60"
+    />
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.netlify.app/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png"
+      alt="typescript"
+      width="80"
+    />
+  </a>
+</p>
+
 
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#7a42c8](https://via.placeholder.com/10/7a42c8?text=+) #7a42c8 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Color de titulos | ![#d8a116](https://via.placeholder.com/10/d8a116?text=+) #d8a116 |
+| Color de tablas | ![#34495e](https://via.placeholder.com/10/34495e?text=+) #34495e |
+| Color de texto| ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
 ## :toolbox: Para empezar
 
