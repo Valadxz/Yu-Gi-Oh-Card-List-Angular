@@ -29,7 +29,7 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
 
 
 ### :space_invader: Tecnologías
-<ul>
+<ul style="list-style-type: none; float: left; margin-right: 10px; padding: 0 4px;">
     <li>
     <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt='image' width='80'/></a> </div>
   </li>
