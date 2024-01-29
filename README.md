@@ -5,25 +5,26 @@
 <p>Aplicación desarrollada en Angular que muestra el listado de todas las cartas de Yu-Gi-Oh! <br>
 Incluye un buscador, información detallada de cada carta y <b>traducción al español</b></p>
 
-<h4> <a href=https://yugioh-cardlist.netlify.app>View Demo</a> <span> · </span> <a href="https://github.com/Valadxz/https://github.com/Valadxz//blob/master/README.md"> Documentación </a> <span> · </span> <a href="https://github.com/Valadxz/https://github.com/Valadxz//issues"> Reportar Bug </a> <span> · </span> 
+<h4> <a href=https://yugioh-cardlist.netlify.app>Ver demostración</a> <span> · </span> <a href="https://github.com/Valadxz/https://github.com/Valadxz//blob/master/README.md"> Documentación </a> <span> · </span> <a href="https://github.com/Valadxz/https://github.com/Valadxz//issues"> Reportar Bug </a> <span> · </span> 
 
 
 </div>
 
 # :notebook_with_decorative_cover: Tabla de contenido
 
-- [Acerca del proyecto](#star2-about-the-project)
-- [Screenshots](#camera)
-- [Tecnologías](#space_invader)
-- [Contacto](#handshake-contact)
+- [Acerca del proyecto](#star2-Acerca)
+- [Screenshots](#camera-Screenshots)
+- [Tecnologías](#space_invader-Tecnologías)
+- [Colores](#art-Colores)
+- [Contacto](#handshake-contacto)
 
 
 ## :star2: Acerca del proyecto
 
 ### :camera: Screenshots
-<div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/3llP2dd.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/buo7Mjl.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/fe8JpV9.png" alt='image' width='500'/></a> </div>
+<div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/3llP2dd.png" alt='image' width='600'/></a> </div>
+<div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/buo7Mjl.png" alt='image' width='600'/></a> </div>
+<div align="center"> <a href="https://yugioh-cardlist.netlify.app"><img src="https://i.imgur.com/fe8JpV9.png" alt='image' width='600'/></a> </div>
 
 
 ### :space_invader: Tecnologías
@@ -92,7 +93,7 @@ Incluye un buscador, información detallada de cada carta y <b>traducción al es
 </p>
 
 
-### :art: Color Reference
+### :art: Colores
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
 | Color de titulos | ![#d8a116](https://via.placeholder.com/10/d8a116?text=+) #d8a116 |
